@@ -48,9 +48,7 @@ header a:hover {
 /* Featured */
 
 #featured img {
-  border: 5px;
-  border-style: solid;
-  border-color: #98ada6;
+	border: 5px rgb(152,173,166) solid;
 }
 
 h2 {
