@@ -5,8 +5,8 @@
 /*////////// Global Styles //////////*/
 
 @font-face {
-  font-family: 'Baskerville';
-  src: url(../font/Baskerville.ttc);
+	font-family: 'Baskerville';
+	src: url(../fonts/Baskerville.ttc);
 }
 
 body {
