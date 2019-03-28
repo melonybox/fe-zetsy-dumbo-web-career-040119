@@ -57,10 +57,6 @@ p  {
 	margin: 0 0 20px 0;
 }
 
-.small {
-	font-size: 0.8em;
-}
-
 #featured img {
 	border: 5px rgb(152,173,166) solid;
 }
@@ -93,7 +89,13 @@ p  {
 	border: 5px rgb(111,127,122) solid;
 }
 
+/* Footer */
+
 footer {
 	text-align: right;
 	background: #fff;
+}
+
+.small {
+	font-size: 0.8em;
 }
