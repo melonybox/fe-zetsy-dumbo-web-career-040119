@@ -44,6 +44,8 @@ header a:hover {
 	color: rgb(111,127,122);
 }
 
+/* Featured */
+
 h2 {
 	color: rgb(111,127,122);
 	font-size: 2em;
@@ -71,6 +73,8 @@ p  {
 #featured a:hover {
 	text-decoration: underline;
 }
+
+/* Press */
 
 #press {
 	margin-bottom: 20px;
