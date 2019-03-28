@@ -72,12 +72,12 @@ header a:hover {
 
 #press {
 	margin-bottom: 20px;
+	border:none !important
 }
 
 #press img {
 	border: 5px #ccc solid;
 	padding: 1px;
-	border:none !important;
 }
 
 #press img:hover {
